@@ -12,4 +12,4 @@ Con todo esto en mente, apuestas con tu amigo a que llegarás a los 60 pasos de 
 
 **¿Cuál es la probabilidad de que ganes esta apuesta?**
 
-Es una tarea compleja. Una forma de resolverlo sería calcular la probabilidad analíticamente usando ecuaciones. Otro enfoque posible es simular este proceso miles de veces y ver en qué fracción de las simulaciones alcanzará los 60 pasos. Esta es una forma de -hackear estadísticas-. Como probablemente puedas adivinar, vamos a optar por el segundo enfoque.
+Es una tarea compleja. Para resolverlo simularemos este proceso miles de veces y ver en qué fracción de las simulaciones alcanzará los 60 pasos. Esta es una forma de -hackear estadísticas-.

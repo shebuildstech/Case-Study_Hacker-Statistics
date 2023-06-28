@@ -1,5 +1,4 @@
-# Case Study - Hacker Statistics🎲
-<img width="290" align="right" src="https://i.pinimg.com/564x/9e/b0/24/9eb024dc3176332284aca926f9398182.jpg" />
+# Case Study Intermediate Python- Hacker Statistics🎲
 
 Imagina lo siguiente: estás caminando por el Empire State Building hasta DataCamp HeadQuarters y estás jugando con un amigo. Tiras un dado cien veces:
 - Si es 1 o 2, bajará un escalón.
@@ -12,4 +11,4 @@ Con todo esto en mente, apuestas con tu amigo a que llegarás a los 60 pasos de 
 
 **¿Cuál es la probabilidad de que ganes esta apuesta?**
 
-Es una tarea compleja. Para resolverlo simularemos este proceso miles de veces y ver en qué fracción de las simulaciones alcanzará los 60 pasos. Esta es una forma de -hackear estadísticas-.
+Para resolverlo simularemos este proceso miles de veces y ver en qué fracción de las simulaciones alcanzará los 60 pasos. Esta es una forma de -hackear estadísticas-.
